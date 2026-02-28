@@ -32,3 +32,10 @@ Tools & Technologies--
 6-Activation rate is 57.5%, meaning nearly 42% of issued cards are inactive, which is a revenue leakage area.
 7-Delinquency rate is around 6%, which is manageable but needs monitoring in low-income segments.
 8-TX, NY, and CA together contribute nearly 70% of revenue, so region-focused campaigns can deliver faster growth.
+  
+Dashboard Preview
+ Credit Card Transaction Dashboard
+![Transaction Dashboard](transaction_dashboard.png)
+
+ Credit Card Customer Dashboard
+![Customer Dashboard](customer_dashboard.png)
