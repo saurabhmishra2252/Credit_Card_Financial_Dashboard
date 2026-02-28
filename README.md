@@ -1,10 +1,29 @@
-# Credit_Card_Financial_Dashboard
-Power Bi Dashboard
+Credit Card Financial Dashboard | Power BI
 OBJECTIVE--
 To develop a comprehensive credit card weekly dashboard that provide real time insights
 into key performance metrics and trends,enabling stakeholders to monitor and analyze credit card operations effectively.
 
-INSIGHTS--
+Tools & Technologies--
+- Power BI  
+- Power Query (ETL & Data Cleaning)  
+- DAX (Calculated Measures & KPIs)  
+- CSV / Excel Dataset
+- 
+ Dataset Description
+ The dataset includes:
+- Credit card transaction details  
+- Customer demographics  
+- Spending categories  
+- Revenue and transaction amounts
+- 
+  Dashboard Features
+- KPI cards for Total Revenue, Total Transactions, and Average Spend  
+- Customer segmentation based on spending behavior  
+- Category-wise and region-wise revenue analysis  
+- Monthly and yearly trend analysis  
+- Interactive slicers for dynamic filtering  
+
+- INSIGHTS--
 1-Overall revenue is 55M with 8M interest income.
 2-Blue and Silver cards contribute more than 90% of revenue, indicating mass-market cards are the key drivers. Premium cards have lower adoption and usage.
 3-Customers spend mostly on Bills, Entertainment, Fuel, and Grocery, which shows credit cards are primarily used for essential and recurring expenses.
